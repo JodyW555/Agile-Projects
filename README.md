@@ -34,7 +34,11 @@ Please refer to Full Stakeholder Register below
 - [Site Admin Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20Site%20Admin.pdf)
 - [Tech Savvy Professional Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Tech%20Savvy%20Professional%20(1).pdf)
 - [Senior Citizen Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Senior%20Citizen.pdf)  
-- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg) 
+- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg)  
+
+## Logo
+Jody proposing we add a logo something like:
+![EIT logo](https://ucarecdn.com/d490d3e4-8ece-4bf7-8e3e-6c4d760e3789/-/preview/288x288/-/format/png/)
 
 ## Resources  
 ### Please refer to resources link for spreadsheet on resources required for project.
